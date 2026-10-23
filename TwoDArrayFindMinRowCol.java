@@ -33,7 +33,7 @@ public class TwoDArrayFindMinRowCol {
                 }
             }
         }
-        System.out.println("Maximum: " + min);
+        System.out.println("Minimum: " + min);
         System.out.println("Row: " + row);
         System.out.println("Column: " + col);
     }
