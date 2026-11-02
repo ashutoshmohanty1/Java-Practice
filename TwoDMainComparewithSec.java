@@ -41,7 +41,7 @@ public class TwoDMainComparewithSec {
         for(int i = 0; i < arr.length; i++) {
             secSum += arr[i][arr.length-1-i];
         }
-        System.out.print("Main Diagonal Sum: " + secSum);
+        System.out.print("Secondary Diagonal Sum: " + secSum);
 
         System.out.println();
 
